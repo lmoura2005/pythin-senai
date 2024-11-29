@@ -1,1 +1,1 @@
-# pythin-senai
+# python-senai
